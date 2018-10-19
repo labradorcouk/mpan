@@ -1,0 +1,19 @@
+# Test files
+test/queue-emails-settings.js
+
+# Out folder
+out/
+
+# OSX
+.DS_Store
+
+# package directories
+node_modules
+jspm_packages
+
+# Serverless directories
+.serverless
+.idea
+
+# VSCODE
+.vscode
