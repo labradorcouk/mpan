@@ -17,7 +17,7 @@ isValid(value);
 or
 
 ```node
-const { isValid } = require('mpan);
+const { isValid } = require('mpan');
 
 isValid(value)
 ```
