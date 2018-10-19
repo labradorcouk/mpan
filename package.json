@@ -1,8 +1,8 @@
 {
   "name": "mpan",
-  "version": "1.0.0",
+  "version": "0.0.2",
   "description": "MPAN checker for UK Energy Meters",
-  "main": "index.js",
+  "main": "mpan.js",
   "scripts": {
     "test": "jest"
   },
@@ -25,5 +25,14 @@
   "bugs": {
     "url": "https://github.com/labradorcouk/mpan/issues"
   },
-  "homepage": "https://github.com/labradorcouk/mpan#readme"
+  "homepage": "https://github.com/labradorcouk/mpan#readme",
+  "keywords": [
+    "mpan",
+    "energy",
+    "uk",
+    "meters",
+    "smart",
+    "meters",
+    "gov"
+  ]
 }
