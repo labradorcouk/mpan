@@ -17,5 +17,13 @@
   },
   "devDependencies": {
     "jest": "^23.6.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/labradorcouk/mpan.git"
+  },
+  "bugs": {
+    "url": "https://github.com/labradorcouk/mpan/issues"
+  },
+  "homepage": "https://github.com/labradorcouk/mpan#readme"
 }
