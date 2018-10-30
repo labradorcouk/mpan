@@ -9,7 +9,7 @@ npm i --save mpan
 In Node.js:
 
 ```node
-import isValid from 'mpan';
+import { isValid } from 'mpan';
 
 isValid(value);
 ```
