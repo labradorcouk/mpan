@@ -4,7 +4,7 @@ R="\033[0;31m"
 G="\033[0;32m"
 W="\033[0m"
 
-RES=$(detect-secrets scan --exclude="(package-lock.json)" | jq '.results')
+RES=$(detect-secrets scan --exclude-files="(package-lock.json)" | jq '.results')
 LEN=$(echo $RES | jq '. | length')
 
 if [ "$LEN" -ne "0" ]; then
